@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Полина\source\repos\laba1_sem4\laba1_sem4\main.cpp(249,18): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+  laba1_sem4.vcxproj -> C:\Users\Полина\source\repos\laba1_sem4\x64\Debug\laba1_sem4.exe
